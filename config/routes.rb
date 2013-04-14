@@ -1,4 +1,28 @@
 SampleApp::Application.routes.draw do
+  get "static_pages/help"
+
+  get "static_pages/home"
+
+  get "static_pages/heRails"
+
+  get "static_pages/comes"
+
+  get "static_pages/with"
+
+  get "static_pages/a"
+
+  get "static_pages/script"
+
+  get "static_pages/for"
+
+  get "static_pages/making"
+
+  get "static_pages/controllers"
+
+  get "static_pages/called"
+
+  get "static_pages/generate"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
