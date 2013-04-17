@@ -3,6 +3,8 @@ SampleApp::Application.routes.draw do
 
   get "static_pages/home"
 
+  get "static_pages/about"
+
   get "static_pages/heRails"
 
   get "static_pages/comes"
